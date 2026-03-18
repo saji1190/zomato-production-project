@@ -3,4 +3,5 @@ project_name        = "zomato"
 project_environment = "production"
 instance_type       = "t3.micro"
 instance_ami        = "ami-0317b0f0a0144b137"
-
+domain_name         = "thomascloud.online"
+hostname            = "terraform-webserver"
